@@ -1,0 +1,13 @@
+package productcrud.dao;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.orm.hibernate5.HibernateTemplate;
+import org.springframework.stereotype.Component;
+
+@Component   //allows Spring to automatically detect our custom beans, i.e- spring will create object of this class when needed and we can the use the object
+public class ProductDao {
+	
+	@Autowired // object of HibernateTemplate will be injected here
+	private HibernateTemplate hibernateTemplate;
+
+}

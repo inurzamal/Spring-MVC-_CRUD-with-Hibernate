@@ -1,0 +1,6 @@
+127.0.0.1 - - [24/Oct/2021:20:23:26 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Oct/2021:20:24:33 +0530] "GET /springmvc_search/ HTTP/1.1" 200 2345
+0:0:0:0:0:0:0:1 - - [24/Oct/2021:20:24:35 +0530] "GET /springmvc_search/resources/css/style.css;jsessionid=43F8B155C9D930453B14FE511A73EB7C HTTP/1.1" 200 215
+0:0:0:0:0:0:0:1 - - [24/Oct/2021:20:24:35 +0530] "GET /springmvc_search/resources/js/script.js;jsessionid=43F8B155C9D930453B14FE511A73EB7C HTTP/1.1" 200 26
+0:0:0:0:0:0:0:1 - - [24/Oct/2021:20:24:36 +0530] "GET /springmvc_search/resources/images/car.jpg;jsessionid=43F8B155C9D930453B14FE511A73EB7C HTTP/1.1" 200 550689
+0:0:0:0:0:0:0:1 - - [24/Oct/2021:20:24:39 +0530] "GET /favicon.ico HTTP/1.1" 404 762
